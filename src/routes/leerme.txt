@@ -1,0 +1,2 @@
+Este es un ejemplo de una REST-API con ecmascript usando babel y mongodb como base de datos
+es un ejemplo muy simple pero claro a la hora de como hacer una api rest
